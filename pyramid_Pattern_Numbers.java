@@ -1,4 +1,4 @@
-class pyramid_Pattern{
+class pyramid_Pattern_Numbers{
     public static void main( String args[]){
             int n=5;
             int count=1;

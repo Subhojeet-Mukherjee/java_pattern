@@ -1,4 +1,4 @@
-class stair_Case_Pattern{
+class stair_Case_Pattern_b{
     public static void main( String args[]){
 
         int n=11;
